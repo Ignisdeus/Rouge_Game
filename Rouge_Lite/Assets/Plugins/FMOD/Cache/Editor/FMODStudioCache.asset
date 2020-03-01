@@ -1,0 +1,413 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9104400770108222569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Backrground.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Backrground.bank
+  SubDir: 
+  lastModified: 637185979406155548
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-7334541107544922745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Score.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Score.bank
+  SubDir: 
+  lastModified: 637185979406575572
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-7218322054903184519
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Score.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Score.bank
+  SubDir: 
+  lastModified: 637185983937694738
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5663341358633991023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Expl
+  m_EditorClassIdentifier: 
+  Path: event:/Expl
+  guid: 35a83bf6b19d8c4f9fbbe1ef6304024c
+  Banks:
+  - {fileID: -1599792297083576875}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1418
+--- !u!114 &-5288751271794829552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/playerHit
+  m_EditorClassIdentifier: 
+  Path: event:/playerHit
+  guid: f341638a64d76c4885e5e2e26f8ef814
+  Banks:
+  - {fileID: -1599792297083576875}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 175
+--- !u!114 &-5267465221690953700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Backrground.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Backrground.bank
+  SubDir: 
+  lastModified: 637185983937474725
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5176066312870430024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Backrground.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Backrground.bank
+  SubDir: 
+  lastModified: 637185991268274023
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4538631280748692380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637185994464376829
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-3474799177724565782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Backrground.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Backrground.bank
+  SubDir: 
+  lastModified: 637186000475800663
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-2790301537349456642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637186000475520647
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 954
+  Exists: 1
+--- !u!114 &-2398293695839753966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Score.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Score.bank
+  SubDir: 
+  lastModified: 637185991268544038
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1944408428922102106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/SFX.bank
+  SubDir: 
+  lastModified: 637185994465736907
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-1599792297083576875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/SFX.bank
+  SubDir: 
+  lastModified: 637186000477170742
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-1130772718942543625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637186000475490645
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -2790301537349456642}
+  - {fileID: -3474799177724565782}
+  - {fileID: -1130772718942543625}
+  - {fileID: -1599792297083576875}
+  EditorEvents:
+  - {fileID: 517156411184382278}
+  - {fileID: 3887172621331658183}
+  - {fileID: -5288751271794829552}
+  - {fileID: -5663341358633991023}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -1130772718942543625}
+  StringsBanks:
+  - {fileID: -2790301537349456642}
+  stringsBankWriteTime: 637186000475520647
+  cacheVersion: 3
+--- !u!114 &517156411184382278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BackgrtoundAudio
+  m_EditorClassIdentifier: 
+  Path: event:/BackgrtoundAudio
+  guid: 3d1518426b781940b12a501a4439d454
+  Banks:
+  - {fileID: -3474799177724565782}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 51565
+--- !u!114 &2776239612995400790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Backrground.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Backrground.bank
+  SubDir: 
+  lastModified: 637185994464916860
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &3887172621331658183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/ScoreUP
+  m_EditorClassIdentifier: 
+  Path: event:/ScoreUP
+  guid: 330ced558fe00d42b63ff45ef26e8d72
+  Banks:
+  - {fileID: -1599792297083576875}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 208
+--- !u!114 &4243673984877754073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637185979385104344
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &5949049752126549762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637185983937084703
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &7069539941778312913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMod/RougeAudio/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637185991267713991
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
